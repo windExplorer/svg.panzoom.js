@@ -10,6 +10,8 @@
 
 ```
 npm install @svgdotjs/svg.js @svgdotjs/svg.panzoom.js
+OR
+yarn add @aiuia/svg.panzoom.js
 ```
 
 Include this plugin after including the svg.js library in your html document.
@@ -23,7 +25,7 @@ Or for esm just import it:
 
 ```
 import { SVG } from '@svgdotjs/svg.js'
-import '@svgdotjs/svg.panzoom.js'
+import '@aiuia/svg.panzoom.js'
 ```
 
 To enable pan/zoom on an svg:
